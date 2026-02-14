@@ -1,8 +1,8 @@
-# Heimdall
+# 4-Sight
 
 ## A Multimodal Commodity Price Prediction & Pattern Recognition Tool
 
-Heimdall is a research tool for **visualizing and predicting commodity price trends** (stocks, ETFs, etc.) through a **multimodal approach**. It integrates **historical OHLCV data** with **technical chart analysis** to detect candlestick patterns and forecast trends.  
+4-Sight is a research tool for **visualizing and predicting commodity price trends** (stocks, ETFs, etc.) through a **multimodal approach**. It integrates **historical OHLCV data** with **technical chart analysis** to detect candlestick patterns and forecast trends.  
 
 The system combines:  
 - **Numerical Time-Series Models** – leveraging LSTMs and statistical methods (SMA, EMA) on OHLCV data.  
